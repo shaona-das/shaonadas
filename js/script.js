@@ -26,14 +26,13 @@ document.addEventListener('DOMContentLoaded', () => {
     </button>
     <aside class="sidebar" id="sidebar">
       <div class="sidebar-top">
-        <a href="index.html" class="logo">JL<span class="dot">.</span></a>
+        <a href="index.html" class="logo">SD<span class="dot">.</span></a>
         <nav class="side-nav" aria-label="Section navigation">
           ${navHTML}
         </nav>
       </div>
       <div class="sidebar-footer">
         <p>UC BERKELEY</p>
-        <p>'26</p>
       </div>
     </aside>
   `;
